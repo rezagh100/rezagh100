@@ -1,76 +1,46 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Reza — Backend Developer" width="100%">
+  <!-- Banner GIF -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=220&section=header&text=Reza%20Ghasemi&fontSize=60&fontColor=fff&animation=twinkling&desc=Backend%20Developer%20|%20Python%20%26%20Django%20Architect&descSize=20" width="100%" />
 
-<br>
+  <!-- Animated Typing Text -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Crafting+Scalable+Backend+Architectures...;Python+%26+Django+Specialist;Database+%26+Caching+Optimization;Dockerizing+Everything+Everywhere!" alt="Typing SVG" />
+  </a>
 
-<a href="https://github.com/rezagh100">GitHub</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.python.org/">Python</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.djangoproject.com/">Django</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.django-rest-framework.org/">Django REST Framework</a>
+  <br/><br/>
 
-</div>
-
-<br>
-
-## About
-
-Backend developer focused on **Python, Django and REST APIs**.
-
-I like turning business requirements into backend systems that are **clear, maintainable and built to scale**.
-
-
-<br>
-
-## Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,postgresql,redis,docker,git,github,linux&theme=dark" />
+  <!-- Social Badges -->
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/rezagh100">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
 </div>
 
-<br>
+<br/>
 
-## Engineering
+---
 
-| Focus | Approach |
-| --- | --- |
-| API design | predictable interfaces, versioning, validation |
-| Business logic | separated services and reusable components |
-| Database | relational modeling, indexes, query optimization |
-| Performance | caching and efficient queries |
-| Security | authentication, authorization, secure defaults |
+### 🚀 About Me
 
-<br>
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Reza Ghasemi"
+        self.role = "Backend Developer"
+        self.language_of_choice = "Python 🐍"
+        self.framework = "Django & Django REST Framework 🎯"
+        self.database = ["PostgreSQL 🐘", "Redis ⚡"]
+        self.devops_tools = ["Docker 🐳", "Git & GitHub 🐙"]
+        self.editor = "VS Code 💻"
 
-## GitHub
+    def current_focus(self):
+        return "Designing high-performance, asynchronous & scalable microservices."
 
-<div align="center">
-
-<a href="https://github.com/rezagh100">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rezagh100&show_icons=true&hide_border=true&bg_color=00000000&title_color=8AFFC1&icon_color=8AFFC1&text_color=9AA5A0&rank_icon=github" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/rezagh100">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rezagh100&bg_color=00000000&color=8AFFC1&line=8AFFC1&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<sub>Build it clean. Make it reliable. Let it scale.</sub>
-
-</div>
+me = Developer()
