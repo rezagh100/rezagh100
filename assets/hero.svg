@@ -1,0 +1,55 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050807"/>
+      <stop offset="0.52" stop-color="#07110D"/>
+      <stop offset="1" stop-color="#030504"/>
+    </linearGradient>
+    <linearGradient id="line" x1="80" y1="70" x2="1120" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1CF58A" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#1CF58A" stop-opacity="0.45"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#75FFBA" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+
+  <rect x="6" y="6" width="1188" height="348" rx="22" fill="url(#bg)" stroke="#163329"/>
+  <rect x="6" y="6" width="1188" height="348" rx="22" fill="url(#grid)"/>
+
+  <circle cx="35" cy="35" r="6" fill="#1CF58A"/>
+  <circle cx="56" cy="35" r="6" fill="#5B665F"/>
+  <circle cx="77" cy="35" r="6" fill="#5B665F"/>
+  <path d="M104 35H1165" stroke="#17352A"/>
+
+  <text x="42" y="92" fill="#77FFBB" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15">reza@backend:~$</text>
+  <text x="42" y="152" fill="#F2F5F3" font-family="Inter, Arial, sans-serif" font-size="55" font-weight="800" letter-spacing="8">REZA</text>
+  <rect x="257" y="112" width="3" height="47" fill="#1CF58A" filter="url(#glow)"/>
+  <text x="42" y="185" fill="#1CF58A" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17" letter-spacing="5">BACKEND DEVELOPER</text>
+
+  <text x="42" y="232" fill="#B8C5BF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">Python  •  Django  •  DRF  •  PostgreSQL  •  Redis</text>
+  <text x="42" y="270" fill="#8D9A94" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">Clean APIs. Solid architecture. Reliable systems.</text>
+  <text x="42" y="303" fill="#4EE99A" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">$ echo "build something worth using"</text>
+  <rect x="350" y="292" width="8" height="15" rx="1" fill="#1CF58A" opacity="0.8"/>
+
+  <g opacity="0.96">
+    <path d="M795 94L965 65L1104 137L935 170L795 94Z" fill="#0B1914" stroke="#1CF58A" stroke-opacity="0.33"/>
+    <path d="M795 94V250L935 330V170L795 94Z" fill="#07100D" stroke="#1CF58A" stroke-opacity="0.23"/>
+    <path d="M935 170V330L1104 276V137L935 170Z" fill="#08120E" stroke="#1CF58A" stroke-opacity="0.28"/>
+    <path d="M840 111L964 90L1059 139L934 160L840 111Z" fill="#0A1C15" stroke="#1CF58A" stroke-opacity="0.55"/>
+    <path d="M840 111V198L934 245V160L840 111Z" fill="#06100C" stroke="#1CF58A" stroke-opacity="0.36"/>
+    <path d="M934 160V245L1059 204V139L934 160Z" fill="#0A1511" stroke="#1CF58A" stroke-opacity="0.4"/>
+    <circle cx="940" cy="126" r="9" fill="#1CF58A" filter="url(#glow)"/>
+    <path d="M1079 176C1111 166 1136 187 1136 214C1136 241 1112 262 1080 271" stroke="#1CF58A" stroke-opacity="0.45" stroke-width="2"/>
+    <path d="M1083 175C1083 157 1094 143 1112 143C1128 143 1138 156 1138 173V181" stroke="#1CF58A" stroke-opacity="0.45" stroke-width="2"/>
+  </g>
+
+  <path d="M744 55V314" stroke="url(#line)" stroke-dasharray="5 8"/>
+</svg>
