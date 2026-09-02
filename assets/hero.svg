@@ -7,7 +7,7 @@
 <rect width="1200" height="340" rx="22" fill="url(#bg)"/><rect width="1200" height="340" rx="22" fill="url(#grid)"/><rect x="1" y="1" width="1198" height="338" rx="21" stroke="url(#edge)"/>
 <circle cx="44" cy="42" r="6" fill="#8AFFC1"/><circle cx="64" cy="42" r="6" fill="#34413B"/><circle cx="84" cy="42" r="6" fill="#34413B"/>
 <path d="M1080 42H1148M1114 34L1122 42L1114 50" stroke="#8AFFC1" stroke-opacity=".35"/>
-<text x="70" y="108" fill="#8AFFC1" font-family="monospace" font-size="15">reza@backend:~$ whoami</text>
+<text x="70" y="108" fill="#8AFFC1" font-family="monospace" font-size="15">gholamhasanireza@gmail.com</text>
 <text x="70" y="163" fill="#F2F5F4" font-family="Arial, sans-serif" font-size="54" font-weight="700">REZA</text>
 <rect x="70" y="180" width="54" height="3" rx="1.5" fill="#8AFFC1"/>
 <text x="70" y="222" fill="#B8C2BE" font-family="monospace" font-size="18">backend developer</text>
