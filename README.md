@@ -1,46 +1,61 @@
-<div align="center">
+# Hi there, I'm Reza Gholamhasani 👋
 
-  <!-- Banner GIF -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=220&section=header&text=Reza%20Ghasemi&fontSize=60&fontColor=fff&animation=twinkling&desc=Backend%20Developer%20|%20Python%20%26%20Django%20Architect&descSize=20" width="100%" />
-
-  <!-- Animated Typing Text -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Crafting+Scalable+Backend+Architectures...;Python+%26+Django+Specialist;Database+%26+Caching+Optimization;Dockerizing+Everything+Everywhere!" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Social Badges -->
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/rezagh100">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-</div>
-
-<br/>
+A passionate **Backend Developer** specializing in building scalable, robust, and clean web applications using **Python** and **Django**. I have a solid foundation in database management, asynchronous tasks, and containerization. Currently, I am expanding my skills into frontend technologies like **JavaScript** and **React** with the goal of becoming a well-rounded **Full-Stack Developer**.
 
 ---
 
-### 🚀 About Me
+### 🚀 What I Do
+* 🛠️ **Backend Architecture:** Designing RESTful APIs using Django & Django REST Framework (DRF).
+* 🗄️ **Databases & Caching:** Working with PostgreSQL, relational databases (SQL), and caching/task queues with Redis & Celery.
+* 🐳 **DevOps & Tools:** Containerizing applications using Docker and using Git/GitHub for version control and collaboration.
+* 🌐 **Full-Stack Vision:** Building modern interactive web interfaces with HTML, CSS, JavaScript, and React.
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Reza Ghasemi"
-        self.role = "Backend Developer"
-        self.language_of_choice = "Python 🐍"
-        self.framework = "Django & Django REST Framework 🎯"
-        self.database = ["PostgreSQL 🐘", "Redis ⚡"]
-        self.devops_tools = ["Docker 🐳", "Git & GitHub 🐙"]
-        self.editor = "VS Code 💻"
+---
 
-    def current_focus(self):
-        return "Designing high-performance, asynchronous & scalable microservices."
+### 🧰 Tech Stack
 
-me = Developer()
+**Backend & Core:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
+
+**Databases & Caching:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Tools & Infrastructure:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Frontend & Currently Learning:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+---
+
+### 📂 Featured Projects
+
+#### 📚 [library_api](https://github.com/rezagh100/library_api)
+A backend RESTful API service built for managing library systems, book collections, and user interactions.
+* **Tech Stack:** Python, Django, Django REST Framework, PostgreSQL, Git
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rezagh100&show_icons=true&theme=tokyonight&hide_border=true" alt="Reza's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezagh100&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 📫 Connect with Me
+* 💼 **LinkedIn:** [reza gholamhasani](https://www.linkedin.com/) *(Search: Reza Gholamhasani)*
+* ✉️ **Email:** [rezagholamhasani@gmail.com](mailto:rezagholamhasani@gmail.com)
+* 🐙 **GitHub:** [rezagh100](https://github.com/rezagh100)
