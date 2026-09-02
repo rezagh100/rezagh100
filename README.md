@@ -22,13 +22,6 @@ Backend developer focused on **Python, Django and REST APIs**.
 
 I like turning business requirements into backend systems that are **clear, maintainable and built to scale**.
 
-```text
-API             →  RESTful design
-Architecture    →  clean & maintainable
-Database        →  PostgreSQL
-Caching         →  Redis
-Infrastructure  →  Docker · Linux
-```
 
 <br>
 
