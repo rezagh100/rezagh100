@@ -1,110 +1,83 @@
 <div align="center">
 
-<a href="https://github.com/rezagh100">
-  <img src="./assets/hero.svg" alt="Reza — Backend Developer" width="100%" />
-</a>
+<img src="./assets/hero.svg" alt="Reza — Backend Developer" width="100%">
 
-<br />
+<br>
 
-<a href="https://github.com/rezagh100">
-  <img src="https://img.shields.io/badge/GitHub-050807?style=for-the-badge&logo=github&logoColor=F2F5F3" alt="GitHub" />
-</a>
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/Python-050807?style=for-the-badge&logo=python&logoColor=1CF58A" alt="Python" />
-</a>
-<a href="https://www.djangoproject.com/">
-  <img src="https://img.shields.io/badge/Django-050807?style=for-the-badge&logo=django&logoColor=1CF58A" alt="Django" />
-</a>
-<a href="https://www.django-rest-framework.org/">
-  <img src="https://img.shields.io/badge/DRF-050807?style=for-the-badge&logo=django&logoColor=1CF58A" alt="Django REST Framework" />
-</a>
+<a href="https://github.com/rezagh100">GitHub</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.python.org/">Python</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.djangoproject.com/">Django</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.django-rest-framework.org/">Django REST Framework</a>
 
 </div>
 
-<br />
+<br>
 
-## `01` — About
+## About
 
-I’m a backend developer focused on **Python, Django, and Django REST Framework**.
+Backend developer focused on **Python, Django and REST APIs**.
 
-I care about writing software that is easy to understand, reliable in production, and structured to grow with the product.
+I like turning business requirements into backend systems that are **clear, maintainable and built to scale**.
 
 ```text
-API design          →  clean, predictable interfaces
-Business logic      →  explicit, maintainable services
-Data                →  PostgreSQL-first thinking
-Performance         →  caching, query optimization, async work
-Delivery            →  Git, Docker, Linux
+API             →  RESTful design
+Architecture    →  clean & maintainable
+Database        →  PostgreSQL
+Caching         →  Redis
+Infrastructure  →  Docker · Linux
 ```
 
-## `02` — Stack
+<br>
+
+## Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,postgresql,redis,celery,docker,git,github,linux&theme=dark" alt="Python, Django, PostgreSQL, Redis, Celery, Docker, Git, GitHub and Linux" />
+<img src="https://skillicons.dev/icons?i=python,django,postgresql,redis,docker,git,github,linux&theme=dark" />
 
 </div>
 
-## `03` — Principles
+<br>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+## Engineering
 
-### Clean
+| Focus | Approach |
+| --- | --- |
+| API design | predictable interfaces, versioning, validation |
+| Business logic | separated services and reusable components |
+| Database | relational modeling, indexes, query optimization |
+| Performance | caching and efficient queries |
+| Security | authentication, authorization, secure defaults |
 
-Readable code, clear boundaries, and abstractions that earn their complexity.
+<br>
 
-</td>
-<td width="33%" valign="top">
-
-### Reliable
-
-Validation, authentication, transactions, testing, and failure-aware design.
-
-</td>
-<td width="33%" valign="top">
-
-### Scalable
-
-Efficient queries, caching, background jobs, and architecture that can evolve.
-
-</td>
-</tr>
-</table>
-
-## `04` — GitHub
+## GitHub
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rezagh100&show_icons=true&hide_border=true&bg_color=00000000&title_color=1CF58A&icon_color=1CF58A&text_color=B8C5BF&ring_color=1CF58A&include_all_commits=true&count_private=true" height="170" alt="GitHub stats" />
-
-<br /><br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rezagh100&hide_border=true&background=00000000&ring=1CF58A&fire=1CF58A&currStreakLabel=1CF58A&sideLabels=B8C5BF&dates=66736C&currStreakNum=F2F5F3&sideNums=F2F5F3" height="170" alt="GitHub streak" />
-
-</div>
-
-## `05` — A small philosophy
-
-> **Good backend code disappears behind a great product.**
->
-> The API should feel boring. The architecture should feel intentional. The system should keep working.
-
-<div align="center">
-
-<br />
-
-`Python` · `Django` · `DRF` · `PostgreSQL` · `Redis` · `Celery` · `Docker`
-
-<br /><br />
 
 <a href="https://github.com/rezagh100">
-  <img src="https://img.shields.io/badge/Explore%20my%20repositories-0B1712?style=for-the-badge&logo=github&logoColor=1CF58A" alt="Explore my repositories" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rezagh100&show_icons=true&hide_border=true&bg_color=00000000&title_color=8AFFC1&icon_color=8AFFC1&text_color=9AA5A0&rank_icon=github" />
 </a>
 
-<br /><br />
+</div>
 
-**Building the backend. Powering the experience.**
+<br>
+
+<div align="center">
+
+<a href="https://github.com/rezagh100">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rezagh100&bg_color=00000000&color=8AFFC1&line=8AFFC1&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>Build it clean. Make it reliable. Let it scale.</sub>
 
 </div>
