@@ -1,75 +1,90 @@
-# Hi, I'm Reza 👋
+<div align="center">
 
-### Backend Developer | Python & Django
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0a0f0d,100:0d2118&height=180&section=header&text=REZA&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=BACKEND%20DEVELOPER&descAlignY=62&descSize=17&descColor=8affc1"/>
 
-I build **RESTful APIs and backend systems** with Python, Django, and Django REST Framework.
+<br/>
 
----
+### `Python` · `Django` · `DRF` · `PostgreSQL`
 
-## 🛠️ Tech Stack
+<br/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,postgresql,redis,docker,git,github,linux" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square\&logo=github\&logoColor=white)](https://github.com/rezagh100)
+[![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square\&logo=python\&logoColor=8affc1)](https://python.org)
+[![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square\&logo=django\&logoColor=8affc1)](https://djangoproject.com)
+[![DRF](https://img.shields.io/badge/DRF-0d1117?style=flat-square\&logo=django\&logoColor=8affc1)](https://www.django-rest-framework.org/)
 
----
+</div>
 
-## 🚀 What I Work With
+<br/>
 
-* 🐍 Python
-* 🌐 Django
-* ⚡ Django REST Framework
-* 🗄️ PostgreSQL
-* 🚀 Redis
-* 🐳 Docker
-* 🔄 REST APIs
-* 🔐 Authentication & Authorization
-* ⚙️ Background Tasks & Celery
-* 🧪 API Testing
+> **Backend developer focused on building clean, reliable and scalable systems.**
 
----
+I enjoy turning complex business logic into **simple, maintainable APIs** and backend architectures.
 
-## 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezagh100&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezagh100&theme=tokyonight&hide_border=true" />
-</p>
+## `01` — Stack
 
----
+<div align="center">
 
-## 📈 Most Used Languages
+<img src="https://skillicons.dev/icons?i=python,django,postgresql,redis,docker,git,github,linux&theme=dark" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezagh100&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
----
+<br/>
 
-## 🎯 Currently
+## `02` — Engineering
 
 ```text
-Backend Development
-        ↓
-Python → Django → DRF
-        ↓
-PostgreSQL → Redis → Celery
-        ↓
-Docker → Linux → Deployment
+Architecture        →  Clean & Maintainable
+APIs                →  RESTful & Versioned
+Database            →  PostgreSQL
+Caching             →  Redis
+Background Jobs     →  Celery
+Authentication      →  JWT / Token based
+Deployment          →  Docker / Linux
 ```
 
----
+<br/>
 
-## 📫 Connect With Me
+## `03` — GitHub
 
-<p align="left">
-  <a href="https://github.com/rezagh100">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rezagh100&show_icons=true&hide_border=true&bg_color=00000000&title_color=8affc1&icon_color=8affc1&text_color=9da7a3&include_all_commits=true&count_private=true" />
 
-<p align="center">
-  <b>Building scalable backends, one API at a time.</b>
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rezagh100&bg_color=00000000&color=8affc1&line=8affc1&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+
+</div>
+
+<br/>
+
+## `04` — Philosophy
+
+<div align="center">
+
+**Simple code.**
+
+**Solid architecture.**
+
+**Reliable systems.**
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`Python` ─ `Django` ─ `DRF` ─ `PostgreSQL` ─ `Redis` ─ `Docker`
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2118,50:0a0f0d,100:050505&height=100&section=footer"/>
+
+</div>
