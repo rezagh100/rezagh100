@@ -60,7 +60,7 @@ I'm Reza, a backend developer from Iran, currently working with Django and Djang
 
 ## Connect With Me
 
-<div align="center">
+<div align="left">
 
 <a href="mailto:rezagholamhasani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://t.me/Gh77_88"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
