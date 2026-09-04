@@ -25,23 +25,12 @@
 
 ## 👨‍💻 About Me
 
-```bash
-$ whoami
-Reza — Backend Developer based in Iran 🇮🇷
-
-$ cat current_focus.txt
-Building real-world REST APIs with Django REST Framework,
-one well-tested endpoint at a time.
-
-$ cat goals.txt
-→ Become a professional backend engineer
-→ Ship clean, secure, production-ready APIs
-→ Go deeper on auth, permissions, caching & containers
-
-$ echo $STATUS
-"Currently building a Library Management API —
- models, business logic & auth in progress 🚧"
-```
+<p align="center">
+<img src="https://img.shields.io/badge/📍-Iran-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻-Backend%20Developer-informational?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/✨-Clean%20Code-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🟢-Open%20to%20Work-brightgreen?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -49,30 +38,32 @@ $ echo $STATUS
 
 **Backend Development**
 
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white"/>
+</p>
 
 **Databases**
 
+<p align="center">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
 
 **DevOps & Tools**
 
+<p align="center">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
 
 ### 📚 Library Management REST API
 **[rezagh100/library_api →](https://github.com/rezagh100/library_api)**
@@ -85,53 +76,15 @@ A ticket-based backend project modeling a real-world library system, built one r
 
 `Django` `DRF` `PostgreSQL` `JWT`
 
-</td>
-<td width="50%" valign="top">
-
-### ✅ Todo API
-A DRF-powered task manager built around clean, per-user data ownership.
-
-- Custom **email-based** authentication (no username field)
-- `Category` & `Task` models with ownership constraints
-- JWT auth via `djangorestframework-simplejwt`
-- Custom permission classes + scoped querysets
-
-`Django` `DRF` `JWT` `Custom Permissions`
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rezagh100&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezagh100&layout=compact&theme=tokyonight&hide_border=true" width="42%" alt="Top Languages"/>
-
-<img src="https://streak-stats.demolab.com/?user=rezagh100&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rezagh100&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies"/>
-</div>
-
 ---
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://t.me/YOUR-TELEGRAM-HANDLE"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="mailto:rezagholamhasani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://t.me/Gh77_88"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://instagram.com/reza_gholamhasani"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </div>
 
