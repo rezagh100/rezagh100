@@ -23,9 +23,9 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/📍-Iran-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/💻-Backend%20Developer-informational?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/✨-Clean%20Code-success?style=for-the-badge"/>
@@ -34,11 +34,11 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Backend Development**
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white"/>
@@ -46,7 +46,7 @@
 
 **Databases**
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
@@ -54,7 +54,7 @@
 
 **DevOps & Tools**
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -63,22 +63,7 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 📚 Library Management REST API
-**[rezagh100/library_api →](https://github.com/rezagh100/library_api)**
-
-A ticket-based backend project modeling a real-world library system, built one reviewed ticket at a time.
-
-- Custom `User` model with **Member / Librarian** roles
-- Modular apps: `accounts`, `books`, `borrowing`
-- 🚧 In progress: borrowing business logic, JWT auth, permissions, filtering, tests
-
-`Django` `DRF` `PostgreSQL` `JWT`
-
----
-
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
