@@ -19,7 +19,7 @@
 
 <br/>
 
-> 🎯 Practicing backend engineering the way it's done on real teams — structured tickets, code review, and iterative delivery.
+> 🎯 Turning ideas into clean, reliable, production-ready APIs.
 
 ---
 
